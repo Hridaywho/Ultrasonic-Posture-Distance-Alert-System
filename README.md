@@ -62,17 +62,17 @@ A small but smart step toward better posture and eye comfort 💡
 1. 🧍‍♂️ Automatic posture correction reminder  
 2. 🔊 Instant buzzer alert when too close  
 3. ⚙️ Adjustable distance threshold (change in code)  
-- 🧰 Compact, beginner-friendly circuit  
-- 🔄 Reusable as a proximity or door alarm system  
+4. 🧰 Compact, beginner-friendly circuit  
+5. 🔄 Reusable as a proximity or door alarm system  
 
 ---
 
 ## 🔮 Future Enhancements
-- 💡 Add RGB LED for distance-based color alerts  
-- 🎵 Use variable beep frequency based on proximity  
-- 📟 Display live distance on LCD/OLED screen  
-- 🔋 Make it battery-powered for portability  
-- 📱 Add Bluetooth to log posture data on your phone  
+1. 💡 Add RGB LED for distance-based color alerts  
+2. 🎵 Use variable beep frequency based on proximity  
+3. 📟 Display live distance on LCD/OLED screen  
+4. 🔋 Make it battery-powered for portability  
+5. 📱 Add Bluetooth to log posture data on your phone  
 
 ---
 
