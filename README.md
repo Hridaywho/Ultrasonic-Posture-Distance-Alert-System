@@ -19,7 +19,7 @@ If you spend long hours coding, watching videos, or gaming — chances are your 
 This project uses an **HC-SR04 Ultrasonic Sensor** and an **Active Buzzer** to alert you when you sit too close to your screen.  
 
 👉 Simply mount the ultrasonic sensor above your monitor.  
-When your face comes within **20 cm**, the **buzzer alerts you to lean back** and maintain healthy distance.  
+When your face comes within **x cm**, the **buzzer alerts you to lean back** and maintain healthy distance.  
 A small but smart step toward better posture and eye comfort 💡
 
 ---
